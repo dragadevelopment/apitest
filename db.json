@@ -1,0 +1,22 @@
+{
+  "AdsController": {
+
+	"ironsource app key": "10418ab31",
+	"ironsource interstitial": "DefaultInterstitial",
+    "ironsource banner": "DefaultBanner",
+
+	"admob banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob native": "ca-app-pub-3940256099942544/2247696110",
+	"admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+	"admob app open": "ca-app-pub-3940256099942544/3419835294",
+	
+	"facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	
+	"banner": "ironsource",
+    "interstitial": "admob",
+    "native": "facebook"
+	
+  }
+}
